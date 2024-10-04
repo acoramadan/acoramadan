@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acoramadan" alt="acoramadan" /></a> </p>
 
-- 🔭 I’m currently working on [IC-ASSIST](https://github.com/TUBES-CA2024/Kelompok1_IC-ASSIST)
-
 - 🌱 I’m currently learning **Kotlin,Flutter,Springboot**
 
 - 📫 How to reach me **laxmiwatimaani@gmail.com**
