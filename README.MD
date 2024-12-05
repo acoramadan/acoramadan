@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin,Flutter,Springboot**
 
-- 📫 How to reach me **laxmiwatimaani@gmail.com**
+- 📫 How to reach me **ahmadmufliramadhan.iclabs@umi.ac.id**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
